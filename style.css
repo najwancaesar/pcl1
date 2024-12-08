@@ -199,6 +199,8 @@ nav .navlinks li a{
         text-align: center;
     }
     nav .navlinks.open{
+                height: 90vh;
+
                         z-index: 3;
 
     }
