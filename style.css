@@ -156,6 +156,9 @@ nav .navlinks li a{
 /* Respnosiv design & displaying navbar for small screen */
 @media(max-width:930px)
 {
+    .wrapper{
+    padding: 0 20px;
+}
     nav .togglebtn{
         display: initial;
     }
@@ -209,6 +212,9 @@ nav .navlinks li a{
 }
 @media(max-width:768px)
 {
+    .wrapper{
+    padding: 0 20px;
+}
     .container{
         flex-direction: column;
         padding-top:2rem
